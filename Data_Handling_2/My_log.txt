@@ -1,5 +1,0 @@
-Log to myself:
-
-DH3 and DH4 are too big. They have image files in the episodes/fig and in site under built and docs: both contain that giant rat_brain.jpeg. It needs to go.
-
-Figure out how to do this, next, before releasing DH3.
